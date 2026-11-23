@@ -111,4 +111,4 @@ Python 3.9+, NumPy, Pandas, SciPy, Statsmodels, Matplotlib, Seaborn, Jupyter.
 
 ## 👤 Author
 
-*Your Name* | Mathematics & Advanced Statistics, PR #3
+*Darshan Patil*
